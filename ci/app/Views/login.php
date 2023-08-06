@@ -19,12 +19,12 @@
 	<meta name="twitter:url" content="">
 	<meta name="twitter:image" content="">
 	<link rel='shortcut icon' href='<?= base_url('assets/img/favicon.jpg') ?>'>
-	<title>Al Hayy :: Admin Panel</title><!-- GLOBAL VENDORS-->
+	<title>Al Hayy :: Admin Panel</title><!-- GLOBAL-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CRoboto:300,400,500,600,700" media="all">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-	<link href="<?= base_url('assets/admin/vendors/%40fortawesome/fontawesome-free/css/all.min.css') ?>" rel="stylesheet" />
-	<link href="<?= base_url('assets/admin/vendors/themify-icons/themify-icons.css') ?>" rel="stylesheet" />
-	<link href="<?= base_url('assets/admin/vendors/line-awesome/css/line-awesome.min.css') ?>" rel="stylesheet" /><!-- PAGE LEVEL VENDORS-->
+	<link href="<?= base_url('assets/admin/%40fortawesome/fontawesome-free/css/all.min.css') ?>" rel="stylesheet" />
+	<link href="<?= base_url('assets/admin/themify-icons/themify-icons.css') ?>" rel="stylesheet" />
+	<link href="<?= base_url('assets/admin/line-awesome/css/line-awesome.min.css') ?>" rel="stylesheet" /><!-- PAGE LEVEL-->
 	<!-- THEME STYLES-->
 	<link href="<?= base_url('assets/admin/css/app.min.css') ?>" rel="stylesheet" /><!-- PAGE LEVEL STYLES-->
 	<style>
@@ -88,9 +88,9 @@
 		<div class="page-preloader">Loading</div>
 	</div><!-- END: Page backdrops-->
 	<!-- CORE PLUGINS-->
-	<script src="<?= base_url('assets/admin/vendors/jquery/dist/jquery.min.js') ?>"></script>
-	<script src="<?= base_url('assets/admin/vendors/bootstrap/dist/js/bootstrap.bundle.min.js') ?>"></script><!-- PAGE LEVEL PLUGINS-->
-	<script src="<?= base_url('assets/admin/vendors/jquery-validation/dist/jquery.validate.min.js') ?>"></script><!-- CORE SCRIPTS-->
+	<script src="<?= base_url('assets/admin/jquery/jquery.min.js') ?>"></script>
+	<script src="<?= base_url('assets/admin/bootstrap/js/bootstrap.bundle.min.js') ?>"></script><!-- PAGE LEVEL PLUGINS-->
+	<script src="<?= base_url('assets/admin/jquery-validation/jquery.validate.min.js') ?>"></script><!-- CORE SCRIPTS-->
 	<script src="<?= base_url('assets/admin/js/app.min.js') ?>"></script><!-- PAGE LEVEL SCRIPTS-->
 	<script>
 		$(function() {
