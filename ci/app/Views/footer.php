@@ -166,7 +166,6 @@
 <script src="<?= base_url('assets/admin/easy-pie-chart/jquery.easypiechart.min.js') ?>"></script>
 <script src="<?= base_url('assets/admin/bootstrap-daterangepicker/daterangepicker.js') ?>"></script>
 <script src="<?= base_url('assets/admin/chart.js/Chart.min.js') ?>"></script><!-- CORE SCRIPTS-->
-<!-- <script src="<?= base_url('assets/admin/DataTables/datatables.min.js') ?>"></script> -->
 <script src="<?= base_url('assets/admin/js/app.min.js') ?>"></script><!-- PAGE LEVEL SCRIPTS-->
 <script>
 	$(function() {
