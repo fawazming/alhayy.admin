@@ -1,7 +1,7 @@
 </div>
 <div>
-	<link href="<?= base_url('assets/admin/vendors/sweetalert2/dist/sweetalert2.min.css') ?>" rel="stylesheet" />
-	<link href="<?= base_url('assets/admin/vendors/summernote/dist/summernote-bs4.css') ?>" rel="stylesheet" />
+	<link href="<?= base_url('assets/admin/sweetalert2/sweetalert2.min.css') ?>" rel="stylesheet" />
+	<link href="<?= base_url('assets/admin/summernote/summernote-bs4.css') ?>" rel="stylesheet" />
 
 	<div class="card">
 		<div class="card-body">
@@ -53,9 +53,9 @@
 
 
 </div><!-- END: Page content-->
-<script src="<?= base_url('assets/admin/vendors/DataTables/datatables.min.js') ?>"></script>
-<script src="<?= base_url('assets/admin/vendors/sweetalert2/dist/sweetalert2.all.min.js') ?>"></script>
-<script src="<?= base_url('assets/admin/vendors/summernote/dist/summernote-bs4.min.js') ?>"></script>
+<script src="<?= base_url('assets/admin/DataTables/datatables.min.js') ?>"></script>
+<script src="<?= base_url('assets/admin/sweetalert2/sweetalert2.all.min.js') ?>"></script>
+<script src="<?= base_url('assets/admin/summernote/summernote-bs4.min.js') ?>"></script>
 
 <script>
 	$('.alert_6').click(function() {
