@@ -60,7 +60,7 @@
 			<div class="card auth-content mb-0">
 				<div class="card-body py-5">
 					<div class="text-center mb-5">
-						<h3 class="mb-3 text-primary"><img src="http://localhost/alhayy.app/assets/img/logo.png" style="height: 70px; width: inherit;" alt="PHF Ogun" class="img-responsive"></a></h3>
+						<h3 class="mb-3 text-primary"><img src="https://alhayy.sgm.ng/app/assets/img/logo.png" style="height: 70px; width: inherit;" alt="PHF Ogun" class="img-responsive"></a></h3>
 						<div class="font-18 text-center">Login to Your account</div>
 					</div>
 					<form action="<?=base_url('auth')?>" method="post">

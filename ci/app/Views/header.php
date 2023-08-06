@@ -43,7 +43,7 @@
 			<nav class="navbar navbar-expand navbar-dark header-navbar">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item mr-2"><a class="nav-link navbar-icon header-nav-toggler" id="header-nav-toggler" href="#"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></li>
-					<li><a class="navbar-brand d-none d-sm-inline-block" href="<?= base_url('admin') ?>"><img src="http://localhost/alhayy.app/assets/img/logo.png" style="height: 70px; width: inherit;" alt="PHF Ogun" class="img-responsive"></a></li>
+					<li><a class="navbar-brand d-none d-sm-inline-block" href="<?= base_url('admin') ?>"><img src="https://alhayy.sgm.ng/app/assets/img/logo.png" style="height: 70px; width: inherit;" alt="PHF Ogun" class="img-responsive"></a></li>
 				</ul>
 				<ul class="navbar-nav">
 					<li class="nav-item mr-3"><a class="nav-link navbar-icon navbar-icon-btn" href="javascript:;" data-toggle="modal" data-target="#search-modal"><i class="ft-search"></i></a></li>
@@ -61,7 +61,7 @@
 								<div class="font-weight-strong text-white">Al Hayy</div>
 								<div class="font-12">Admin</div>
 							</div>
-							<span class="position-relative d-inline-block"><img class="rounded-circle" src="http://localhost/alhayy.app/assets/img/logo.png" alt="image" width="36" /><span class="badge-point badge-success avatar-badge"></span></span>
+							<span class="position-relative d-inline-block"><img class="rounded-circle" src="https://alhayy.sgm.ng/app/assets/img/logo.png" alt="image" width="36" /><span class="badge-point badge-success avatar-badge"></span></span>
 						</a>
 					</li>
 					<li style="display:none"><a class="nav-link navbar-icon quick-sidebar-toggler" href="javascript:;"><span class="ti-align-right"></span></a></li>
